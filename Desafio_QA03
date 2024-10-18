@@ -1,0 +1,10 @@
+{
+  "email": "novousuario@email.com",
+  "address": {
+    "geo": {
+      "lat": "-23.5505",
+      "lng": "-46.6333"
+    }
+  },
+  "id": 5
+}
